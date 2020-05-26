@@ -1,3 +1,4 @@
+Projekat se nalazi na putanji demos/test/index.php
 Aplikacija sadrzi 4 taba. 
 Klikom na prvi tab otvara se forma biljke. Ispod forme je dugme za pokretanje automatskog rasta za vrednost rasta biljke u minutu (podatak iz tipa biljke), a ispod je lista svih biljaka sa mogucnoscu brisanja i edita.
 Klikom na drugi tab otvara se forma tipa biljke, a ispod je lista svih tipova sa mogucnoscu brisanja i edita.
@@ -5,3 +6,4 @@ Klikom na trecitab otvara se forma skladista, a ispod je lista svih skladista sa
 Klikom na treci tab otvara se spisak svih trazenih izvestaja u zadatku.
 Sva cuvanja modela propracena su uslovima koja su navedena u zadataku.
 Dump baze je u folderu db.
+Ukoliko se projekat pokrece iz linux-a, neophodna je privilegija 777 foldera protected/runtime.
